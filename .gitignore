@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+*.pyc
+patch_example.png
